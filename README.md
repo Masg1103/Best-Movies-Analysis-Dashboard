@@ -7,6 +7,7 @@ The dataset I worked with includes information on 1,000 movies, featuring detail
 
 One of the key goals of this analysis was to understand not just the financial aspects, but also the creative and critical facets of the movie-making business. By examining genre popularity, box office performance, and ratings, we can gain insights into what has driven the industry’s success over the years.
 
-![kissclipart-cinematic-techniques-clipart-photographic-film-cin-2b1cbfa02047641b](https://github.com/user-attachments/assets/e636b72e-f7ed-4736-b3f6-9c1b9ff98f55)
+![Screenshot 2024-08-30 005732](https://github.com/user-attachments/assets/a15f3b18-470a-4ea6-afad-31212325328f)
+
 
 Read more https://medium.com/@mamigyasi/unveiling-movie-industry-trends-with-a-data-driven-exploration-0f393b218f36
