@@ -1,4 +1,4 @@
-# **Movie Industry Trends: A Data-Driven Exploration**
+# **Movie Industry Trends- A Data-Driven Exploration**
 ![kissclipart-cinematic-techniques-clipart-photographic-film-cin-2b1cbfa02047641b](https://github.com/user-attachments/assets/1a44d194-3fd1-4d7e-bf3c-02a1845cb097)
 Movies have long been a source of entertainment, cultural reflection, and artistic expression. With decades of cinematic history behind us, I recently embarked on a data-driven journey to explore the trends and patterns that have shaped the movie industry over time. Using a rich dataset spanning from 1939 to 2015, I aimed to uncover insights that could tell us more about the evolution of movies, their genres, financial success, and critical reception.
 
